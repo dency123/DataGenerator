@@ -20,11 +20,11 @@
         <junit.version>4.12</junit.version>
         <guava.version>21.0</guava.version>
         <commons.version>3.5</commons.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <byte-buddy.version>1.4.18</byte-buddy.version>
         <protobuf-java.version>3.0.0</protobuf-java.version>
         <ignite.version>1.7.0</ignite.version>
-        <spark.version>2.0.0</spark.version>
+        <spark.version>2.2.0</spark.version>
         <gremlin.version>3.2.3</gremlin.version>
         <scala.version>2.11.8</scala.version>
         <enumeratum.version>1.4.14</enumeratum.version>
